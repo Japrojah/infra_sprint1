@@ -1,5 +1,5 @@
 IP: 158.160.29.10;
 name_taski: https://japrojah.servecounterstrike.com;
 name_kittygram: https://dima.serveblog.net;
-login: Dima
-password: Dima
+login: Dima;
+password: Dima;
