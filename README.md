@@ -87,7 +87,7 @@ sudo apt-get install -y nodejs'
 #### Активируйте файервол:
 'sudo ufw enable'
 
-### Далее необходимо собрать статику для фронтекд приложния и указать её для Nginx:
+### Далее необходимо собрать статику для фронтенд приложния и указать её для Nginx:
 'npm run build' - в директории taski/frontend/
 'sudo cp -r /home/user/infra_sprint1/frontend/build/. /var/www/infra_sprint1/'
 
